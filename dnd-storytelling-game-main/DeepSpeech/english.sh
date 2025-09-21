@@ -1,0 +1,1 @@
+deepspeech --model models/english.pbmm --scorer models/english.scorer --audio audio/2830-3980-0043.wav

@@ -1,0 +1,62 @@
+Grammar Coherence Creativity Relevance Engagement
+
+Qwen2.5 72B:
+5 5 5 5 5
+1 2 2 1 2
+5 5 5 5 5
+5 5 4 5 4
+4 4 3 4 3
+4 4 3 4 3
+5 5 5 5 5
+4 4 3 4 3
+5 5 4 4 5
+5 5 4 5 4
+5 5 4 5 4
+5 4 4 5 5
+
+Qwen turbo:
+5 5 5 5 5
+3 2 2 1 2
+5 5 5 5 5
+5 5 5 5 5
+5 5 4 5 4
+5 5 5 5 5
+5 5 4 5 4
+5 5 4 5 4
+5 5 4 5 4
+5 5 4 5 4
+5 5 4 4 5
+
+Deepseek-chat:
+5 5 5 5 5
+3 3 4 2 3
+5 5 5 5 5
+5 5 5 5 5
+5 5 4 5 4
+5 5 4 5 4
+5 5 4 5 4
+5 5 5 5 5
+5 5 4 5 4
+5 5 4 5 4
+5 5 4 5 4
+
+Kimi-moonshot:
+5 5 5 5 5
+1 1 2 1 1
+4 4 4 3 3
+4 4 4 5 4
+4 4 4 5 4
+4 4 5 5 5
+
+Contrastive (Deepseek-chat):
+Deepseek-chat vs Kimi-moonshot: 2 2 2 2 2 1
+Qwen-turbo vs Deepseek-chat: 2 2 2 2 2 1 2 1 1 2 1
+Kimi-moonshot vs Qwen-turbo: 2 2 2 2 2 2
+Qwen-turbo vs Qwen2.5-72B: 2 2 2 2 1 1 2 2 1 1 2 2
+Qwen2.5-72B vs Deepseek-chat: 1 2 2 2 2 2 2 2 1 2 2
+Kimi-moonshot vs Qwen2.5-72B: 2 2 2 1 2 2
+
+Contrastive (Qwen2.5-72B):
+Deepseek-chat vs Kimi-moonshot: 1 2 1 1 1 1
+Qwen-turbo vs Deepseek-chat: 1 1 1 1 1 1 2 1 1 2 1
+

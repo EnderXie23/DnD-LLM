@@ -1,0 +1,16 @@
+torch==1.13.1
+numpy==1.17.3
+matplotlib==3.5.0
+transformers==4.46.3
+tokenizers==0.20.3
+deepspeech==0.9.3
+pyttsx3==2.98
+accelerate==1.0.1
+vertexai
+requests
+google-cloud-aiplatform
+google-cloud-texttospeech
+google-cloud-speech
+opencv-python
+pydub
+pygame

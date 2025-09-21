@@ -1,0 +1,1 @@
+deepspeech --model models/chinese.pbmm --scorer models/chinese.scorer --audio audio/2830-3980-0043.wav
