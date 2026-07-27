@@ -55,10 +55,11 @@ I will complete this part if necessary.
 
 We deployed SD3 on autodl servers, and here are instructions on how to use it.
 
-1. Log in autodl server and launch SD3. You shall contact Xiang Ji to turn on the server. You are also recommended to configure ssh-key authorization on the server.
+1. Log in autodl server and launch SD3. You are also recommended to configure ssh-key authorization on the server.
 ```
-account: ssh -p 14058 root@connect.cqa1.seetacloud.com
-password: le2LAenxPLNH
+***EXAMPLE***
+account: ssh -p xxxx root@connect.cqa1.seetacloud.com
+password: ********
 ```
 2. Launch the stable diffusion webui
 ```
